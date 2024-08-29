@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "register-developer.component",
+  name: "register-developer",
   data() {
     return {
       firstName: '',
